@@ -1,5 +1,4 @@
 import os
-import numpy as np
 from turtle import *
 
 a=input("for adding data type ---> 'add' for seeing the result type ---> 'plot' \n")
