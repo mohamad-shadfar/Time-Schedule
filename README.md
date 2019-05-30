@@ -18,6 +18,11 @@ input:
       plot the result and campare your state each month.
       its clear that less black color is better to see in your result
  
+ important :
+ be aware to change the direction to your local computer in below line of code :
+ 
+ exists = os.path.isfile('/home/mohi/Desktop/data.txt')
+ 
  note :
  
  1. after 30 day your records will be deleted if you enter--->yes
