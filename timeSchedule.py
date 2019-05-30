@@ -89,4 +89,4 @@ elif(a=="plot"):
     t.hideturtle()
     wn.exitonclick()
 else:
-    print("ass hole")
+    print("you entered wrong charectars .restar the programm.")
