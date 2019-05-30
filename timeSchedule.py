@@ -85,7 +85,7 @@ elif(a=="plot"):
     t.hideturtle()
 
     ts = t.getscreen()
-    ts.getcanvas().postscript(file="a.jpg.eps")
+    ts.getcanvas().postscript(file="result.jpg.eps")
     t.hideturtle()
     wn.exitonclick()
 else:
