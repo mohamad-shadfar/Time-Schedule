@@ -29,7 +29,8 @@ input:
  2. you have to install numpy and turtle libraries.
  3. you can change the color in code.
  4. after ploting the data an image will be save in format of jpg.eps .
- 
+
+a sample output is exist in thie repo too.
  enjoyyyyyyyyyyyyyyy ;)
  
  
