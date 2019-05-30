@@ -60,9 +60,9 @@ elif(a=="plot"):
     t.pendown()
     box_size = 20
     for row in range(len(lines)):
-        for f in range(len(lines[row])-1):
-            t.goto(-500+box_size*(f+1),250-box_size*(row))
-            if(int(lines[row][f])==0):
+        for col in range(len(lines[row])-1):
+            t.goto(-500+box_size*(col+1),250-box_size*(row))
+            if(int(lines[row][col])==0):
                 t.fillcolor("black")
                 t.begin_fill()
                 for i in range(0,4):
