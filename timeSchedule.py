@@ -28,7 +28,7 @@ if(a=="add"):
             print("restart the program")
             exit()
         else:
-            print("you entered wrong charectars .restar the programm.")
+            print("you entered wrong charectars .restart the Program.")
 
     else:
 
@@ -89,4 +89,4 @@ elif(a=="plot"):
     t.hideturtle()
     wn.exitonclick()
 else:
-    print("you entered wrong charectars .restar the programm.")
+    print("you entered wrong charectars .restar the Program.")
