@@ -26,11 +26,13 @@ input:
  note :
  
  1. after 30 day your records will be deleted if you enter--->yes
- 2. you have to install numpy and turtle libraries.
- 3. you can change the color in code.
- 4. after ploting the data an image will be save in format of jpg.eps .
+ 2. you can change the color in code.
+ 3. after ploting the data an image will be save in format of jpg.eps .
 
 a sample output is exist in thie repo too.
  enjoyyyyyyyyyyyyyyy ;)
  
  
+to do:
+make it more user friendly.
+bring it on android device.
